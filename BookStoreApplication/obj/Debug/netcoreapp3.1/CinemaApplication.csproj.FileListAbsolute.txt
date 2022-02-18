@@ -1,0 +1,466 @@
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.StaticWebAssets.xml
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.exe
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.deps.json
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.runtimeconfig.json
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.runtimeconfig.dev.json
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.pdb
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.Views.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.Views.pdb
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.AssemblyInfo.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\staticwebassets\CinemaApplication.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\staticwebassets\CinemaApplication.StaticWebAssets.xml
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\CinemaApplication.styles.css
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.TagHelpers.input.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.TagHelpers.output.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorCoreGenerate.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.Views.pdb
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.csproj.CopyComplete
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.pdb
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.genruntimeconfig.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Domain.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Repository.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Services.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Domain.pdb
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Repository.pdb
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Services.pdb
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\DevExpress.Data.v21.1.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Create.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Delete.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Details.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Edit.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Index.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangeUserRole.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\AddTicketToCart.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.StaticWebAssets.xml
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.exe
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.deps.json
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.runtimeconfig.json
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.runtimeconfig.dev.json
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.pdb
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.Views.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\CinemaApplication.Views.pdb
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\DevExpress.Data.v21.1.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Domain.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Repository.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Services.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Domain.pdb
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Repository.pdb
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\bin\Debug\netcoreapp3.1\Cinema.Services.pdb
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.csprojAssemblyReference.cache
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.AssemblyInfoInputs.cache
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.AssemblyInfo.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorAssemblyInfo.cache
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorAssemblyInfo.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\staticwebassets\CinemaApplication.StaticWebAssets.Manifest.cache
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\staticwebassets\CinemaApplication.StaticWebAssets.xml
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\CinemaApplication.styles.css
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.TagHelpers.input.cache
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.TagHelpers.output.cache
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorCoreGenerate.cache
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangeUserRole.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\AddTicketToCart.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Create.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Delete.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Details.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Edit.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\Tickets\Index.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.Views.pdb
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.csproj.CopyComplete
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.dll
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.pdb
+C:\Users\Ema\Desktop\robert proekt\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.genruntimeconfig.cache
+C:\Users\Ema\Desktop\Интегрирани проект\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.csprojAssemblyReference.cache
+C:\Users\Ema\Desktop\Интегрирани проект\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.AssemblyInfoInputs.cache
+C:\Users\Ema\Desktop\Интегрирани проект\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.AssemblyInfo.cs
+C:\Users\Ema\Desktop\Интегрирани проект\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ema\Desktop\Интегрирани проект\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ema\Desktop\Интегрирани проект\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ema\Desktop\Интегрирани проект\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorAssemblyInfo.cache
+C:\Users\Ema\Desktop\Интегрирани проект\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.RazorAssemblyInfo.cs
+C:\Users\Ema\Desktop\Интегрирани проект\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.dll
+C:\Users\Ema\Desktop\Интегрирани проект\CinemaApplication-master\CinemaApplication\obj\Debug\netcoreapp3.1\CinemaApplication.pdb

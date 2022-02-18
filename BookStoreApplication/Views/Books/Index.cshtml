@@ -1,0 +1,56 @@
+﻿@model BookStore.Domain.DTO.BookDto
+
+@{ ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+
+<div class="container">
+    <form asp-action="Index" method="post">
+        @Html.HiddenFor(m => m.Books)
+        <input asp-for="SearchName" type="search" />
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </form>
+    @if (ViewBag.IsAdmin)
+    {
+        <div class="m-3">
+            <a class="btn btn-success" asp-controller="Books" asp-action="Create">Add new Book</a>
+        </div>      
+    }
+
+    @for (int i = 0; i < Model.Books.Count; i++)
+    {
+        var item = Model.Books[i];
+
+        if (i % 3 == 0)
+        {
+@:<div class="row">
+}
+
+
+<div class="col-md-3 m-4">
+    <div class="card" style="width: 18rem; height: 40rem;">
+        <img class="card-img-top" src="@item.BookImage" style="height: 50%" alt="Image for book!" />
+
+        <div class="card-body">
+            <h3 class="card-title">@item.BookName - @item.BookYear</h3>
+            <p class="card-text">@item.BookGenre</p>
+            <p class="card-text">@item.BookDescription</p>
+            <h6>Price: @item.BookPrice</h6>
+        </div>
+
+        <div class="card-footer">
+
+            <a asp-action="AddBookToCart" asp-route-id="@item.Id" class="btn btn-info">Add to Cart</a>
+            @if (ViewBag.IsAdmin)
+            {
+        <a asp-controller="Books" asp-action="Edit" asp-route-t="@item.Id" class="btn btn-secondary">Edit</a>
+        <a asp-controller="Books" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>}
+        </div>
+    </div>
+</div> if (i % 3 == 2)
+{
+@:</div>
+}
+}
+
+</div>

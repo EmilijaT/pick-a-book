@@ -1,0 +1,57 @@
+﻿@model BookStore.Domain.DTO.AddToShoppingCartDto
+
+@{ ViewData["Title"] = "Add To Shopping Card";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+
+<h1>Add Selected Book to User Shopping Cart:</h1>
+
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4 m-auto">
+        <form asp-action="AddBookToCart" method="post">
+            <input type="hidden" asp-for="BookId" />
+            <div class="form-group">
+                <label asp-for="Book.BookName"></label>
+                <input disabled asp-for="Book.BookName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Book.BookYear"></label>
+                <input disabled asp-for="Book.BookYear" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Book.BookGenre"></label>
+                <input disabled asp-for="Book.BookGenre" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Book.BookPrice"></label>
+                <input disabled asp-for="Book.BookPrice" class="form-control" />
+            </div>
+            <!--  <div class="row">
+          <div class="col">
+              <div class="form-group">
+                  <label asp-for="Book.StartDate"></label>
+                  <input disabled asp-for="Book.StartDate" class="form-control" />
+              </div>
+          </div>
+          <div class="col">
+              <div class="form-group">
+                  <label asp-for="Book.EndDate"></label>
+                  <input disabled asp-for="Book.EndDate" class="form-control" />
+              </div>
+          </div>
+      </div>-->
+
+            <div class="form-group">
+                <label asp-for="Quantity"></label>
+                <input asp-for="Quantity" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Add book to cart" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

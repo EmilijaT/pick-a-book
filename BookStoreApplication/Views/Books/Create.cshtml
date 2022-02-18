@@ -1,0 +1,73 @@
+﻿@model BookStore.Domain.DomainModels.Book
+
+@{ ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<h1>Create</h1>
+
+<h4>Book</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="BookName" class="control-label">Book Name</label>
+                <input asp-for="BookName" class="form-control" />
+                <span asp-validation-for="BookName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookYear" class="control-label">Book Year</label>
+                <input asp-for="BookYear" class="form-control" />
+                <span asp-validation-for="BookYear" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookGenre" class="control-label">Book Genre</label>
+                <select asp-for="BookGenre" asp-items="Html.GetEnumSelectList<BookStore.Domain.DomainModels.Genre>()" class="form-control"></select>
+                <span asp-validation-for="BookGenre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookDescription" class="control-label">Book Description</label>
+                <input asp-for="BookDescription" class="form-control" />
+                <span asp-validation-for="BookDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookImage" class="control-label">Book Image</label>
+                <input asp-for="BookImage" class="form-control" />
+                <span asp-validation-for="BookImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookPrice" class="control-label">Book Price</label>
+                <input asp-for="BookPrice" class="form-control" />
+                <span asp-validation-for="BookPrice" class="text-danger"></span>
+            </div>
+            <!-- <div class="row">
+         <div class="col">
+             <div class="form-group">
+                 <label asp-for="StartDate" class="control-label">Start Date</label>
+                 <input type="date" id="Date" asp-for="StartDate" class="form-control">
+                 <span asp-validation-for="StartDate" class="text-danger"></span>
+             </div>
+         </div>
+         <div class="col">
+             <div class="form-group">
+                 <label asp-for="EndDate" class="control-label">End Date</label>
+                 <input type="date" id="Date" asp-for="EndDate" class="form-control">
+                 <span asp-validation-for="EndDate" class="text-danger"></span>
+             </div>
+         </div>
+     </div>-->
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

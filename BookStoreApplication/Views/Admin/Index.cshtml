@@ -1,0 +1,37 @@
+﻿
+@model BookStore.Domain.DomainModels.Book
+@{
+    ViewData["Title"] = "AdminPage";
+}
+
+<div class="container">
+    <h3>Import users</h3>
+    <form asp-controller="Admin" asp-action="ImportUsers" method="post" enctype="multipart/form-data">
+
+        <div class="form-group w-25">
+            <input type="file" name="file" class="form-control" />
+        </div>
+
+        <hr />
+
+        <button type="submit" class="btn btn-outline-success">Import Excel</button>
+
+    </form>
+
+    <br />
+
+    <div class="row">
+        <h3>Export all books</h3>
+        <a class="btn btn-success" asp-controller="Admin" asp-action="ExportAllBooks">Export Books</a>
+    </div>
+
+    <br />
+
+    <h3>Export books from specific genre</h3>
+    <form asp-action="ExportBooksFromGenre" method="post">
+        <select asp-for="BookGenre" asp-items="Html.GetEnumSelectList<BookStore.Domain.DomainModels.Genre>()">
+        </select>
+        <span asp-validation-for="BookGenre" class="text-danger"></span>
+        <button type="submit" class="btn btn-success">Export Books</button>
+    </form>
+</div>
